@@ -7,7 +7,8 @@
 <h2>👨‍💻My CyberSecurity Projects</h2>
 </b>📝Cybersecurity Incident Report
 (https://docs.google.com/document/d/1hvj5dQcgPbYIqAhPnZ4Vrr21DU9QaIg_pm7UYfq7y10/edit?resourcekey=0-IwmMjxRt_l_20egHNbI6kQ)
-</b>📝Seurity Audit
+
+</b>📝Security Audit
 (https://docs.google.com/document/d/1IyI8CrMHjqiJlXCiVrRr-SYrniMAYGNS0GybeqvgSh8/edit?resourcekey=0-vD4eDMgS5QsNjzfRKAWHxg#heading=h.wj2j189xt6fj)
 
 
