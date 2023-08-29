@@ -5,6 +5,10 @@
 - <b>I’m a detail oriented team player with strong organizational skills, with an ability to handle multiple projects with a high degree of accuracy. More than eager to learn everything I can about modern technology and open to any training to enhance my knowledge, the way the company would like. Valuable in making effective choices and coming up with solutions that enhance the overall team. As a tech professional, I have a passion for aligning security architecture plans and processes with security standards and business goals.
 
 <h2>👨‍💻My CyberSecurity Projects</h2>
+</b>📝Cybersecurity Incident Report
+(https://docs.google.com/document/d/1hvj5dQcgPbYIqAhPnZ4Vrr21DU9QaIg_pm7UYfq7y10/edit?resourcekey=0-IwmMjxRt_l_20egHNbI6kQ)
+</b>📝Seurity Audit
+(https://docs.google.com/document/d/1IyI8CrMHjqiJlXCiVrRr-SYrniMAYGNS0GybeqvgSh8/edit?resourcekey=0-vD4eDMgS5QsNjzfRKAWHxg#heading=h.wj2j189xt6fj)
 
 
 <h2> 🤳 Connect with me:</h2>
