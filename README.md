@@ -11,6 +11,9 @@
 </b>📝Security Audit
 (https://docs.google.com/document/d/1IyI8CrMHjqiJlXCiVrRr-SYrniMAYGNS0GybeqvgSh8/edit?resourcekey=0-vD4eDMgS5QsNjzfRKAWHxg#heading=h.wj2j189xt6fj)
 
+</b>📝Incident report analysis with NIST Framework
+(https://docs.google.com/document/d/1TYcw46_hP078RsS5Y7xUYlnaC52Kw1YVu1MWZZdfVyU/edit)
+
 
 <h2> 🤳 Connect with me:</h2>
 
